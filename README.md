@@ -17,8 +17,8 @@ The following students collaborated on the majority of these assignments:
 
 - **Aaditya Jalan** (Roll No: 220123001)  
 - **Aayush Suthar** (Roll No: 220123004)  
-- **Avanish Gadhikar** (Roll No: 220123075)  
 - **Chaitanya Chabra** (Roll No: 220123012)
+- **Avanish Gadhikar** (Roll No: 220123075)  
 
 ---
 
